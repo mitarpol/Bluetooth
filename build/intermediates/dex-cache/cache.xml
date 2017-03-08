@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d67b41a539b6dde33a05667047c07a56be1a37af">
+        <dex dex="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e017c3b1be5eff14e43baa0f4d2d677637e10acd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3fa3b2052e63468cca29387c41bab587217a3eee">
+        <dex dex="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6ba42262f6cde217dc6426ce7cfa78882beb96f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Mitar\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\classes.dex" />
+    </item>
+
+</items>
